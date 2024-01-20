@@ -1,0 +1,98 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": {},
+      "email": {},
+      "password": {},
+      "mobile": {},
+      "id": {}
+    },
+    {
+      "fullname": "saurabh kumar",
+      "email": "sks928607@gmail.com",
+      "password": "Ss@8002929255",
+      "mobile": "",
+      "id": "wYfg5lb"
+    },
+    {
+      "fullname": "rahul",
+      "email": "saurabhkr80029@gmail.com",
+      "password": "58loiuyhy",
+      "mobile": "",
+      "id": "JhA--DL"
+    },
+    {
+      "fullname": "poli singh",
+      "email": "polis9900@gmail.com",
+      "password": "poli@8002626255",
+      "mobile": "",
+      "id": "tVesTnt"
+    },
+    {
+      "fullname": "",
+      "email": "hdju@gmail.com",
+      "password": "",
+      "mobile": "",
+      "id": "1yBRWpa"
+    },
+    {
+      "fullname": "kgf",
+      "email": "kgf45@gmail.com",
+      "password": "kgf123456",
+      "mobile": "0000000000",
+      "id": "2J1tWN7"
+    },
+    {
+      "fullname": "raj",
+      "email": "raj00@gmail.com",
+      "password": "0000000000s",
+      "mobile": "8888888888",
+      "id": "rECZ1Ax"
+    },
+    {
+      "fullname": "saurabh kumar5",
+      "email": "ss@gmail.com",
+      "password": "85694762",
+      "mobile": "123456",
+      "id": "6SikGgY"
+    },
+    {
+      "fullname": "rahul",
+      "email": "rk@gmail.com",
+      "password": "123456",
+      "mobile": "5555555555",
+      "id": "zetMs18"
+    },
+    {
+      "fullname": "ram",
+      "email": "ram@gmail",
+      "password": "123456",
+      "mobile": "2222222222",
+      "id": "vEAJQjU"
+    },
+    {
+      "fullname": "aaa",
+      "email": "aaa@gmail.com",
+      "password": "11111111",
+      "mobile": "5641237895",
+      "id": "Bfe9IWp"
+    },
+    {
+      "fullname": "rx",
+      "email": "rx@gmail.com",
+      "password": "25698745",
+      "mobile": "569874561",
+      "id": "837u1hw"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
